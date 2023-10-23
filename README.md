@@ -12,10 +12,13 @@ The arm attachment will also contain a switch which when flicked will change if 
 
 ## Group members
 - Leo
-In charge of building the prosthetic
+
+> In charge of building the prosthetic
 
 - Shafeen
-In charge of sensors
+
+> In charge of sensors
 
 - Kevin
-In charge of code
+
+> In charge of code
