@@ -1,6 +1,6 @@
 # TriClaw
 
-!(https://github.com/TempeHS/2024IST-BioMech-TriClaw-Leo.P-Kevin.T-Shafeen.C/blob/main/.workingDocuments/TriClaw%20concept%20pictorial.jpg)
+!(.workingDocuments/TriClaw%20concept%20pictorial.jpg)
 
 ## What this product is
 This product is an arm attachment for amputees which will help them move chess pieces easily on the board without it being hard for them. 
