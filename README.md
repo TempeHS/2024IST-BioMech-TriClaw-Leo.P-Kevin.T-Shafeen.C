@@ -2,7 +2,9 @@
 
 ![Pictorial](.workingDocuments/Pictorial.jpg)
 
-## What this product is
+## Product info
+
+### What it is
 This product is an arm attachment for amputees which will help them move chess pieces easily on the board without it being hard for them. 
 
 ### How it works
