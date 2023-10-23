@@ -1,5 +1,7 @@
 # TriClaw
 
+!(\.workingDocuments\TriClaw concept pictorial.jpg)
+
 ## What this product is
 This product is an arm attachment for amputees which will help them move chess pieces easily on the board without it being hard for them. 
 
