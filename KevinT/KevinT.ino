@@ -15,7 +15,7 @@ Servo myServo;  // create servo object to control a servo
 static unsigned int degreeOfMovement = 180;    // variable for angle of servo
 
 void setup() {
-  myServo.attach(9);  // attaches the servo on pin 9 to the servo object
+  myServo.attach(7);  // attaches the servo on pin 9 to the servo object
 }
 
 void loop() {
